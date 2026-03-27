@@ -1,6 +1,6 @@
 # Hi, I'm Saygın 👋
 
-I'm a Computer Engineering student at METU NCC who enjoys building things and learning by doing.
+I'm a Software Engineering student at METU NCC who enjoys building things and learning by doing.
 
 I’m especially interested in writing clean logic, understanding how things work under the hood, and improving step by step.
 
