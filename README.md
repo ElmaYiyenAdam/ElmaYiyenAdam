@@ -74,7 +74,7 @@ Collecting skills...
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=vsc&logoColor=white)
-<img src="https://komarev.com/ghpvc/?username=ElmaYiyenAdam&style=for-the-badge&color=blueviolet" />
+<img src="https://komarev.com/ghpvc/?username=ElmaYiyenAdam&style=for-the-badge&color=blueviolet&base=2945" />
 
 `Successfully installed skills (more downloading in background...)`
 
