@@ -112,4 +112,4 @@ Process finished with exit code 0
 ```
 
 </div>
-![Visitor Count](https://profile-counter.glitch.me/{ElmaYiyenAdam}/count.svg)
+<img src="https://komarev.com/ghpvc/?username=yenererr&style=for-the-badge&color=blueviolet" />
